@@ -77,6 +77,7 @@
 		5B89CCFD2144E19F00C4D5C3 = {
 			isa = PBXGroup;
 			children = (
+				5B89CD452149BBFD00C4D5C3 /* README.md */,
 				5B89CD082144E19F00C4D5C3 /* Tippyy */,
 				5B89CD1D2144E1A100C4D5C3 /* TippyyTests */,
 				5B89CD282144E1A100C4D5C3 /* TippyyUITests */,
@@ -123,6 +124,14 @@
 				5B89CD2B2144E1A100C4D5C3 /* Info.plist */,
 			);
 			path = TippyyUITests;
+			sourceTree = "<group>";
+		};
+		5B89CD452149BBFD00C4D5C3 /* README.md */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = README.md;
+			path = Tippyy/README.md;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
